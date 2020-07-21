@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670514866682",
+    "firebase_url": "https://e-shoping-28a22.firebaseio.com",
+    "project_id": "e-shoping-28a22",
+    "storage_bucket": "e-shoping-28a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670514866682:android:b3bc52ca7f7b65783a1c43",
+        "android_client_info": {
+          "package_name": "com.solutions.e_shoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670514866682-2eniqlrjjmmt8l4i77cj87p91c60v788.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solutions.e_shoping",
+            "certificate_hash": "4f0ad3132fe319fc5303e9e2534a6a4cad591711"
+          }
+        },
+        {
+          "client_id": "670514866682-s2o733c7hdcfmsgptdntag6578v7rni9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkPgx2pWCoVPbXjdjQp3TgSJsK6Ck8ERQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670514866682-s2o733c7hdcfmsgptdntag6578v7rni9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

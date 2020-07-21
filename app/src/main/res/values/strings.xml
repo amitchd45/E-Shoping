@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Shoping</string>
+
+    <string name="google_maps_api_key">AIzaSyDFO1yNBgrQViiFr2CQ24t_9IV9AHBZNcU</string>
+    <string name="login">Login</string>
+    <string name="recover">Recover Password</string>
+    <string name="Register_user">Register User</string>
+    <string name="Register_seller">Register Seller</string>
+</resources>
